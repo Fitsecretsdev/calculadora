@@ -148,7 +148,19 @@
 
         <!-- Footer -->
         <div class="text-center text-white/80">
-            <p class="mb-2">✨ Siga @fitsecrets para mais dicas de saúde e fitness!</p>
+            <div class="mb-4 space-y-2">
+                <p class="text-lg font-medium">✨ Siga para mais dicas de saúde e fitness!</p>
+                <div class="flex justify-center items-center space-x-6">
+                    <a href="https://instagram.com/fitssecrets" target="_blank" class="flex items-center space-x-2 hover:text-white transition-colors duration-200 hover:scale-105 transform">
+                        <span class="text-2xl">📷</span>
+                        <span class="font-medium">@fitssecrets</span>
+                    </a>
+                    <a href="https://www.instagram.com/fitssecrets/" target="_blank" class="flex items-center space-x-2 hover:text-white transition-colors duration-200 hover:scale-105 transform">
+                        <span class="text-2xl">🎵</span>
+                        <span class="font-medium">@fit_secrets</span>
+                    </a>
+                </div>
+            </div>
             <p class="text-sm">Esta calculadora é apenas para fins informativos. Consulte um profissional de saúde.</p>
         </div>
     </div>
@@ -243,5 +255,5 @@
             document.getElementById('tips').classList.remove('hidden');
         }
     </script>
-<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9670b36403090123',t:'MTc1MzgzNDkzNy4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9670c14e429eaec0',t:'MTc1MzgzNTUwNy4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
 </html>
